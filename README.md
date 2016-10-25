@@ -16,9 +16,9 @@
 University of Missouri - Columbia:
 __Computer Science,__ Bachelor of Science
 
-__GPA 3.979__
-
 *Minors: Math, Information Technology*
+
+__GPA 3.979__
 
   __Expected Graduation: May 2018__
 
