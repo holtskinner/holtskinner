@@ -2,6 +2,7 @@
 ## Computer Science Scholar
 
 > [hastg2@mail.missouri.edu](hastg2@mail.missouri.edu)
+
 > (417) 855-0214
 
 > [Github](https://github.com/HoltWasHere)
@@ -14,6 +15,7 @@
 ### Education
 
 University of Missouri - Columbia:
+
 __Computer Science,__ Bachelor of Science
 
 *Minors: Math, Information Technology*
@@ -28,32 +30,32 @@ __GPA 3.979__
 
 ### Experience
 
-University of Missouri
-: *Peer Assisted Study Session Tutor*
-  __Fall 2016 - Present__
+**University of Missouri**
+: Peer Assisted Study Session Tutor
+  (Fall 2016 - Present)
   * Tutored undergraduate students in Mathematics and Computer Science courses.
 
-Cerner Corporation
-: *Software Engineering Intern*
-  __Summer 2016 - Present__
+**Cerner Corporation**
+: Software Engineering Intern
+  (Summer 2016 - Present)
   * Implemented a front-end interface for displaying the current and previous NEDOCS scores of an emergency room.
   * Utilized D3.js, jQuery, jQPlot, JavaScript, HTML and CSS.
   * Currently in use by the University of Missouri Hospital.
 
-University of Missouri
-: *Peer Advisor/Course Instructor*
-  __Fall 2015 - Present__
+**University of Missouri**
+: Peer Advisor/Course Instructor
+  (Fall 2015 - Present)
   - Designed curriculum and taught two semesters of a freshman seminar course in Computer Science.
   - Received “Excellence in Teaching” award for my work as an instructor.
 
-University of Missouri
-: *Lab Technician*
-  __Fall 2014 - Present__
+**University of Missouri**
+: Lab Technician
+  _Fall 2014 - Present_
   - Provided technological support for lab computers and computer software.
 
-Quality Computers, Inc.
-: *IT Intern*
-  __Summer 2011__
+**Quality Computers, Inc.**
+: IT Intern
+  _Summer 2011_
   - Built custom computers for sale.
   - Performed IT consultations and service calls.
 
@@ -61,17 +63,11 @@ Quality Computers, Inc.
 
 ### Projects
 
-* Hack Mizzou
-  __2016__
-  : Director of Logistics for annual hackathon at the University of Missouri hosted by the Association for Computing Machinery and Major League Hacking. Over 200 students competed.
+* **Hack Mizzou (2016):** Director of Logistics for annual hackathon at the University of Missouri hosted by the Association for Computing Machinery and Major League Hacking. Over 200 students competed.
 
-* Division of IT Inventory Management System
-  __2016__
-  : Designed and implemented an inventory management system for the Mizzou Division of IT. Allows checking in/out of items in inventory, administrator/employee access, and updating of inventory. Linux, Apache, MySQL, PHP, HTML, CSS, JavaScript, Bootstrap
+* **Division of IT Inventory Management System (2016):** Designed and implemented an inventory management system for the Mizzou Division of IT. Allows checking in/out of items in inventory, administrator/employee access, and updating of inventory. Linux, Apache, MySQL, PHP, HTML, CSS, JavaScript, Bootstrap
 
-* Engineering Grand Challenge
-  __2014__
-  : Worked in a team to propose and design a theoretical solution for the NAE Challenge “Prevent Nuclear Terrorism.” Presented proposal to the department chairs and Dean of the College of Engineering.
+* **Engineering Grand Challenge (2014):** Worked in a team to propose and design a theoretical solution for the NAE Challenge “Prevent Nuclear Terrorism.” Presented proposal to the department chairs and Dean of the College of Engineering.
 
 -------
 
