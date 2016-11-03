@@ -5,7 +5,7 @@
 
 > (417) 855-0214
 
-> [Github](https://github.com/HoltWasHere)
+> [GitHub](https://github.com/HoltWasHere)
 > &
 > [LinkedIn](https://linkedin.com/in/HoltWasHere)
 > HoltWasHere
@@ -22,39 +22,56 @@ __Computer Science,__ Bachelor of Science
 
 __GPA 3.979__
 
-  __Expected Graduation: May 2018__
+__Expected Graduation: May 2018__
 
-  __Coursework:__ Advanced Algorithm Design and Programming; Software Engineering; Databases; Science and Engineering of the Web; Object-Oriented Programming; Computer Networks; Digital Logic; Discrete Math; Calculus 3; Numerical Linear Algebra; Mathematical Statistics
+__Coursework:__
+  * Advanced Algorithm Design and Programming
+  * Software Engineering
+  * Database Applications and Info Systems
+  * Science and Engineering of the Web
+  * Object-Oriented Programming
+  * Computer Networks
+  * Digital Logic
+  * Discrete Math
+  * Calculus 3
+  * Numerical Linear Algebra
+  * Mathematical Statistics
 
 ------
 
 ### Experience
 
 **University of Missouri**
-: Peer Assisted Study Session Tutor
-  (Fall 2016 - Present)
+ Peer Assisted Study Session Tutor
+
+  _Fall 2016 - Present_
+
   * Tutored undergraduate students in Mathematics and Computer Science courses.
 
 **Cerner Corporation**
-: Software Engineering Intern
-  (Summer 2016 - Present)
+Software Engineering Intern
+
+  _Summer 2016 - Present_
   * Implemented a front-end interface for displaying the current and previous NEDOCS scores of an emergency room.
   * Utilized D3.js, jQuery, jQPlot, JavaScript, HTML and CSS.
   * Currently in use by the University of Missouri Hospital.
 
 **University of Missouri**
-: Peer Advisor/Course Instructor
-  (Fall 2015 - Present)
+ Peer Advisor/Course Instructor
+
+  _Fall 2015 - Present_
   - Designed curriculum and taught two semesters of a freshman seminar course in Computer Science.
   - Received “Excellence in Teaching” award for my work as an instructor.
 
 **University of Missouri**
-: Lab Technician
+ Lab Technician
+
   _Fall 2014 - Present_
   - Provided technological support for lab computers and computer software.
 
 **Quality Computers, Inc.**
-: IT Intern
+ IT Intern
+
   _Summer 2011_
   - Built custom computers for sale.
   - Performed IT consultations and service calls.
@@ -81,7 +98,7 @@ __GPA 3.979__
 - SQL
 - Java
 - UNIX/Bash
-- Git
+- Git/GitHub
 - jQuery
 - Materialize
 - Bootstrap
