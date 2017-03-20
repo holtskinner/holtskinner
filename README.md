@@ -90,6 +90,7 @@ MU Academic Support
 
 ## Technical Skills
 
+*In order of proficiency*
 <!--
 - C
 - JavaScript
@@ -114,7 +115,7 @@ MU Academic Support
 
 | General | Front-end | Back-End | Other |
 | ---- | ---- | ---- | ---- |
-| JavaScript, C, Java, Swift | HTML, CSS, jQuery, Bootstrap, Materialize, D3.js | PHP, SQL, Node.js, Express.js | Git, Splunk, Bash, UML, Agile, TCP/IP
+| C, JavaScript, Java, Swift | HTML/CSS, jQuery, Bootstrap, Materialize, D3.js | PHP, SQL, Node.js, Express.js | Git, Bash, Splunk, UML, Agile, TCP/IP
 
 -------
 
