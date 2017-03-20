@@ -3,88 +3,100 @@
 
 > [hastg2@mail.missouri.edu](hastg2@mail.missouri.edu)
 
-> (417) 855-0214
+> [holtwashere@gmail.com](holtwashere@gmail.com)
+
+> [(417) 855-0214](417-855-0214)
 
 > [GitHub](https://github.com/HoltWasHere)
-> &
 > [LinkedIn](https://linkedin.com/in/HoltWasHere)
-> HoltWasHere
+> [Twitter](https://twitter.com/HoltWasHere)
+> [GitLab](https://gitlab.com/holtwashere)
+> [BitBucket](https://bitbucket.org/holtwashere)
+
+**@HoltWasHere**
+
 
 ------
 
 ### Education
 
-University of Missouri - Columbia:
+University of Missouri - Columbia
 
-__Computer Science,__ Bachelor of Science
+**Computer Science,** Bachelor of Science
 
 *Minors: Math, Information Technology*
 
-__GPA 3.979__
+**GPA 3.979**
 
-__Expected Graduation: May 2018__
+**Expected Graduation: May 2018**
 
-__Coursework:__
-  * Advanced Algorithm Design and Programming
+**Coursework:**
+  * Advanced Algorithms
+  * Operating Systems
   * Software Engineering
-  * Database Applications and Info Systems
+  * Databases
   * Science and Engineering of the Web
-  * Object-Oriented Programming
+  * Object-Oriented Design
   * Computer Networks
-  * Digital Logic
+  * Computer Organization
   * Discrete Math
-  * Calculus 3
   * Numerical Linear Algebra
-  * Mathematical Statistics
+  * Statistics
 
 ------
 
 ### Experience
 
-**University of Missouri**
- Peer Assisted Study Session Tutor
+**Software Engineer, Intern**
 
-  _Fall 2016 - Present_
+Cerner, Tiger Institute Living Lab
 
-  * Tutored undergraduate students in Mathematics and Computer Science courses.
+  *May 2016 - May 2017*
+  - Implemented a front-end interface for displaying the NEDOCS scores of an emergency room.
+  - Utilized D3.js, jQuery, jQPlot, JavaScript, HTML and CSS.
+  - Currently in use by the University of Missouri Hospital.
 
-**Cerner Corporation**
-Software Engineering Intern
+**Course Instructor**
 
-  _Summer 2016 - Present_
-  * Implemented a front-end interface for displaying the current and previous NEDOCS scores of an emergency room.
-  * Utilized D3.js, jQuery, jQPlot, JavaScript, HTML and CSS.
-  * Currently in use by the University of Missouri Hospital.
+MU College of Engineering
 
-**University of Missouri**
- Peer Advisor/Course Instructor
+  *Fall 2015 - Present*
+  - Designed curriculum and taught two semesters of Computer Science courses focused on hands-on and practical skills through problem solving, collaboration, and challenge-based learning.
+  - Received “Excellence in Teaching” award from the College of Engineering.
 
-  _Fall 2015 - Present_
-  - Designed curriculum and taught two semesters of a freshman seminar course in Computer Science.
-  - Received “Excellence in Teaching” award for my work as an instructor.
+**Peer Tutor**
 
-**University of Missouri**
- Lab Technician
+MU College of Engineering
 
-  _Fall 2014 - Present_
+  *Fall 2016 - Present*
+
+  - Tutored undergraduate and graduate students in Mathematics and Computer Science courses.
+
+**Lab Technician**
+
+MU Academic Support
+
+  *Fall 2014 - Present*
   - Provided technological support for lab computers and computer software.
 
-**Quality Computers, Inc.**
- IT Intern
+**IT Intern**
+ Quality Computers
 
-  _Summer 2011_
+  *Summer 2011*
   - Built custom computers for sale.
-  - Performed IT consultations and service calls.
+  - Performed technical consultations and service calls.
 
 ------
 
 ### Projects
 
-* **Hack Mizzou (2016):** Director of Logistics for annual hackathon at the University of Missouri hosted by the Association for Computing Machinery and Major League Hacking. Over 200 students competed.
+- **TigerHacks (2016):** Director of Logistics for annual hackathon at the University of Missouri hosted by the Association for Computing Machinery and Major League Hacking. Over 200 students competed.
 
-* **Division of IT Inventory Management System (2016):** Designed and implemented an inventory management system for the Mizzou Division of IT. Allows checking in/out of items in inventory, administrator/employee access, and updating of inventory. Linux, Apache, MySQL, PHP, HTML, CSS, JavaScript, Bootstrap
+- **OCDX Engine (2016):** Project Manager. Data Analytics application to allow Data Scientist to upload, query, share, and analyze manifest data. Materialize, Python, Flask, MongoDB, Regex
 
-* **Engineering Grand Challenge (2014):** Worked in a team to propose and design a theoretical solution for the NAE Challenge “Prevent Nuclear Terrorism.” Presented proposal to the department chairs and Dean of the College of Engineering.
+- **Division of IT Inventory Management System (2016):** Designed and implemented an inventory management system for the MU Division of IT. Allows checking in/out of items in inventory, administrator/employee access, and updating of inventory. Linux, Apache, MySQL, PHP, HTML, CSS, JavaScript, Bootstrap
+
+- **NAE Engineering Grand Challenge (2014):** Worked in a team to propose and design a theoretical solution for the challenge “Prevent Nuclear Terrorism.” Presented proposal to the Dean of the College of Engineering.
 
 -------
 
@@ -94,34 +106,39 @@ Software Engineering Intern
 - JavaScript
 - HTML
 - CSS
+- Java
 - PHP
 - SQL
-- Java
+- Splunk
 - UNIX/Bash
-- Git/GitHub
+- Git
 - jQuery
 - Materialize
 - Bootstrap
 - d3.js
+- Swift
+- Node.js
 
 -------
 
 ### Awards & Honors
 
-* Dean’s High Honor Roll
-  : Achieved a 3.5-4.0 GPA for 4 Semesters
+- Dean’s High Honor Roll
+  : Achieved a 3.5-4.0 GPA for 5 Semesters
 
-* Upsilon Pi Epsilon
-  : Fall 2016
+- Association of Computing Machinery
+  : Executive Officer, Hackathon Director
 
-* Association of Computing Machinery
-  : Director of Logistics, Hack Mizzou
+- Upsilon Pi Epsilon
+  : 2016
 
-* Engineering Dean’s Scholars
+- Engineering Dean’s Scholars
 
-* University Singers
+- MU University Singers
   : Technical Officer, Fall 2014 – Present
 
-* Missouri Scholars 100
+- Missouri Scholars 100
+  : 2014
 
-* Missouri Scholars Academy
+- Missouri Scholars Academy
+  : 2012
