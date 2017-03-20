@@ -18,9 +18,9 @@
 
 ------
 
-### Education
+## Education
 
-University of Missouri - Columbia
+University of Missouri - Columbia :tiger:
 
 **Computer Science,** Bachelor of Science
 
@@ -45,7 +45,7 @@ University of Missouri - Columbia
 
 ------
 
-### Experience
+## Experience
 
 **Software Engineer, Intern**
 
@@ -88,7 +88,7 @@ MU Academic Support
 
 ------
 
-### Technical Skills
+## Technical Skills
 
 - C
 - JavaScript
@@ -112,7 +112,7 @@ MU Academic Support
 
 -------
 
-### Projects
+## Projects
 
 - **TigerHacks (2016)** Director of Logistics for annual hackathon at the University of Missouri hosted by the Association for Computing Machinery and Major League Hacking. Over 200 students competed.
 
@@ -124,7 +124,7 @@ MU Academic Support
 
 -------
 
-### Awards & Honors
+## Awards & Honors
 
 - Dean’s High Honor Roll
   : Achieved a 3.5-4.0 GPA for 5 Semesters
