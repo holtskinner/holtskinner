@@ -118,6 +118,9 @@ MU Academic Support
 - d3.js
 - Swift
 - Node.js
+- UML
+- Agile
+- TCP/IP
 
 -------
 
