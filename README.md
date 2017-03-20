@@ -88,18 +88,6 @@ MU Academic Support
 
 ------
 
-### Projects
-
-- **TigerHacks (2016)** Director of Logistics for annual hackathon at the University of Missouri hosted by the Association for Computing Machinery and Major League Hacking. Over 200 students competed.
-
-- **OCDX Engine (2016)** Project Manager. Data Analytics application to allow Data Scientist to upload, query, share, and analyze manifest data. Materialize, Python, Flask, MongoDB, Regex
-
-- **Division of IT Inventory Management System (2016)** Designed and implemented an inventory management system for the MU Division of IT. Allows checking in/out of items in inventory, administrator/employee access, and updating of inventory. Linux, Apache, MySQL, PHP, HTML, CSS, JavaScript, Bootstrap
-
-- **NAE Engineering Grand Challenge (2014)** Worked in a team to propose and design a theoretical solution for the challenge “Prevent Nuclear Terrorism.” Presented proposal to the Dean of the College of Engineering.
-
--------
-
 ### Technical Skills
 
 - C
@@ -121,6 +109,18 @@ MU Academic Support
 - UML
 - Agile
 - TCP/IP
+
+-------
+
+### Projects
+
+- **TigerHacks (2016)** Director of Logistics for annual hackathon at the University of Missouri hosted by the Association for Computing Machinery and Major League Hacking. Over 200 students competed.
+
+- **OCDX Engine (2016)** Project Manager. Data Analytics application to allow Data Scientist to upload, query, share, and analyze manifest data. Materialize, Python, Flask, MongoDB, Regex
+
+- **Division of IT Inventory Management System (2016)** Designed and implemented an inventory management system for the MU Division of IT. Allows checking in/out of items in inventory, administrator/employee access, and updating of inventory. Linux, Apache, MySQL, PHP, HTML, CSS, JavaScript, Bootstrap
+
+- **NAE Engineering Grand Challenge (2014)** Worked in a team to propose and design a theoretical solution for the challenge “Prevent Nuclear Terrorism.” Presented proposal to the Dean of the College of Engineering.
 
 -------
 
