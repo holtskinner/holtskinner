@@ -90,6 +90,7 @@ MU Academic Support
 
 ## Technical Skills
 
+<!--
 - C
 - JavaScript
 - HTML
@@ -109,6 +110,15 @@ MU Academic Support
 - UML
 - Agile
 - TCP/IP
+-->
+
+General                        | Front-end
+-------                       | ---------
+JavaScript, C, Java, Swift    | HTML, CSS, jQuery, Bootstrap, Materialize, D3.js
+
+| Back-End                    | Other
+-------                       | -----
+PHP, SQL, Node.js, Express.js | Git, Splunk, Bash, UML, Agile, TCP/IP  
 
 -------
 
