@@ -112,13 +112,9 @@ MU Academic Support
 - TCP/IP
 -->
 
-General                        | Front-end
--------                       | ---------
-JavaScript, C, Java, Swift    | HTML, CSS, jQuery, Bootstrap, Materialize, D3.js
-
-| Back-End                    | Other
--------                       | -----
-PHP, SQL, Node.js, Express.js | Git, Splunk, Bash, UML, Agile, TCP/IP  
+| General | Front-end | Back-End | Other |
+| ---- | ---- | ---- | ---- |
+| JavaScript, C, Java, Swift | HTML, CSS, jQuery, Bootstrap, Materialize, D3.js | PHP, SQL, Node.js, Express.js | Git, Splunk, Bash, UML, Agile, TCP/IP
 
 -------
 
