@@ -12,6 +12,7 @@
 > [LinkedIn](https://linkedin.com/in/HoltWasHere)  
 > [Twitter](https://twitter.com/HoltWasHere)  
 > [GitLab](https://gitlab.com/holtwashere)  
+> [GitBook](https://www.gitbook.com/@holtwashere)
 > [BitBucket](https://bitbucket.org/holtwashere)
 
 **@HoltWasHere**
