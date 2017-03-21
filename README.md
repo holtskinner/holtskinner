@@ -2,9 +2,9 @@
 
 ## Computer Science Scholar
 
-> [hastg2@mail.missouri.edu](hastg2@mail.missouri.edu)
+> [hastg2@mail.missouri.edu](mailto:hastg2@mail.missouri.edu)
 >
-> [holtwashere@gmail.com](holtwashere@gmail.com)
+> [holtwashere@gmail.com](href:holtwashere@gmail.com)
 >
 > [\(417\) 855-0214](417-855-0214)
 >
