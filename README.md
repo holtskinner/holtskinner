@@ -3,7 +3,7 @@
 ## Computer Science Scholar
 
 > [hastg2@mail.missouri.edu](mailto:hastg2@mail.missouri.edu)  
-> [holtwashere@gmail.com](holtwashere@gmail.com)  
+> [holtwashere@gmail.com](mailto:holtwashere@gmail.com)  
 > [\(417\) 855-0214](1-417-855-0214)
 >
 > [GitHub :octocat:](https://github.com/HoltWasHere)  
