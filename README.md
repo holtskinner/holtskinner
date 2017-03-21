@@ -1,6 +1,6 @@
 # Holt Skinner
 
-## Computer Science Scholar :nerd:
+## Computer Science Scholar :bowtie:
 
 > [hastg2@mail.missouri.edu](hastg2@mail.missouri.edu)
 >
@@ -8,7 +8,7 @@
 >
 > [\(417\) 855-0214](417-855-0214)
 >
-> [GitHub](https://github.com/HoltWasHere)  
+> [GitHub :octocat:](https://github.com/HoltWasHere)  
 > [LinkedIn](https://linkedin.com/in/HoltWasHere)  
 > [Twitter](https://twitter.com/HoltWasHere)  
 > [GitLab](https://gitlab.com/holtwashere)  
