@@ -1,6 +1,6 @@
 # Holt Skinner
 
-## Computer Science Scholar :bowtie:
+## Computer Science Scholar
 
 > [hastg2@mail.missouri.edu](hastg2@mail.missouri.edu)
 >
