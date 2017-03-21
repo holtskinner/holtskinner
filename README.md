@@ -4,7 +4,7 @@
 
 > [hastg2@mail.missouri.edu](mailto:hastg2@mail.missouri.edu)  
 > [holtwashere@gmail.com](holtwashere@gmail.com)  
-> [\(417\) 855-0214](href:417-855-0214)
+> [\(417\) 855-0214](1-417-855-0214)
 >
 > [GitHub :octocat:](https://github.com/HoltWasHere)  
 > [LinkedIn](https://linkedin.com/in/HoltWasHere)  
