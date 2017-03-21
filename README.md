@@ -1,6 +1,6 @@
 # Holt Skinner
 
-## Computer Science Scholar
+## Computer Science Scholar :nerd:
 
 > [hastg2@mail.missouri.edu](hastg2@mail.missouri.edu)
 >
