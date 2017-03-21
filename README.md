@@ -11,7 +11,7 @@
 > [GitHub :octocat:](https://github.com/HoltWasHere)  
 > [LinkedIn](https://linkedin.com/in/HoltWasHere)  
 > [Twitter](https://twitter.com/HoltWasHere)  
-> [GitLab](https://gitlab.com/holtwashere)  
+> [GitLab](https://gitlab.com/holtwashere)
 > [BitBucket](https://bitbucket.org/holtwashere)
 > [GitBook](https://www.gitbook.com/@holtwashere)
 **@HoltWasHere**
