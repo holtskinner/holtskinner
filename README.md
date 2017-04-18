@@ -52,9 +52,9 @@ Cerner, Tiger Institute Living Lab
 
 _May 2016 - May 2017_
 
-* Implemented a front-end interface for displaying the NEDOCS scores of an emergency room.
+* Implemented a front-end interface for displaying the NEDOCS scores of an ER.
+* Currently deployed at University of Missouri Hospital.
 * Utilized D3.js, jQuery, jQPlot, JavaScript, HTML and CSS.
-* Currently in use by the University of Missouri Hospital.
 
 **Course Instructor**
 
@@ -63,7 +63,7 @@ MU College of Engineering
 _Fall 2015 - Present_
 
 * Designed curriculum and taught two semesters of Computer Science courses focused on hands-on and practical skills through problem solving, collaboration, and challenge-based learning.
-* Received “Excellence in Teaching” award from the College of Engineering.
+* Received _Excellence in Teaching_ award from the College of Engineering.
 
 **Peer Tutor**
 
@@ -71,7 +71,7 @@ MU College of Engineering
 
 _Fall 2016 - Present_
 
-* Tutored undergraduate and graduate students in Mathematics and Computer Science courses.
+* Tutored undergraduate and graduate students in Computer Science and Math courses.
 
 **Lab Technician**
 
@@ -82,7 +82,7 @@ _Fall 2014 - Present_
 * Provided technological support for lab computers and computer software.
 
 **IT Intern**  
- Quality Computers
+Quality Computers
 
 _Summer 2011_
 
@@ -96,7 +96,7 @@ _Summer 2011_
 _In order of proficiency_
 
 | General | Front-end | Back-End | Other |
-| :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- |
 | C, JavaScript, Java, Swift | HTML/CSS, jQuery, Bootstrap, Materialize, D3.js | PHP, SQL, Node.js, Express.js | Git, Bash, Splunk, UML, Agile, TCP/IP |
 
 ---
@@ -134,6 +134,3 @@ _In order of proficiency_
 
 * Missouri Scholars Academy  
   : 2012
-
-
-
