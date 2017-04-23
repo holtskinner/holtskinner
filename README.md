@@ -103,7 +103,9 @@ _In order of proficiency_
 
 ## Projects
 
-* **TigerHacks \(2016\)** Director of Logistics for annual hackathon at the University of Missouri hosted by the Association for Computing Machinery and Major League Hacking. Over 200 students competed.
+* **TigerHacks \(2017\)** Director of TigerHacks Hackathon for Mizzou Computing Association. Planned Dates October 13-15.
+
+* **HackMizzou \(2016\)** Executive Team Member for annual hackathon at the University of Missouri hosted by the Association for Computing Machinery and Major League Hacking. Over 200 students competed.
 
 * **OCDX Engine \(2016\)** Project Manager. Data Analytics application to allow Data Scientist to upload, query, share, and analyze manifest data. Materialize, Python, Flask, MongoDB, Regex
 
