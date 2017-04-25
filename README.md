@@ -64,7 +64,7 @@ MU College of Engineering
 
 _Fall 2015 - Present_
 
-* Designed curriculum and taught two semesters of Computer Science courses focused on hands-on and practical skills through problem solving, collaboration, and challenge-based learning.
+* Designed curriculum and taught three semesters of Computer Science Seminar focused on practical skills through problem solving, collaboration, and hands-on learning.
 * Received _Excellence in Teaching_ award from the College of Engineering.
 
 **Teaching Assistant**
@@ -115,13 +115,11 @@ _In order of proficiency_
 
 ## Projects
 
-* **TigerHacks \(2017\)** Director of TigerHacks Hackathon for Mizzou Computing Association. Planned Dates October 13-15.
-
-* **HackMizzou \(2016\)** Executive Team Member for annual hackathon at the University of Missouri hosted by the Association for Computing Machinery and Major League Hacking. Over 200 students competed.
+* **HackMizzou/TigerHacks \(2016 - 2017\)** Director of annual hackathon at the University of Missouri. Hosted by the Association for Computing Machinery and Major League Hacking. Over 200 students competed.
 
 * **OCDX Engine \(2016\)** Project Manager. Data Analytics application to allow Data Scientist to upload, query, share, and analyze manifest data. Materialize, Python, Flask, MongoDB, Regex
 
-* **Division of IT Inventory Management System \(2016\)** Designed and implemented an inventory management system for the MU Division of IT. Allows checking in/out of items in inventory, administrator/employee access, and updating of inventory. Linux, Apache, MySQL, PHP, HTML, CSS, JavaScript, Bootstrap
+* **Division of IT Inventory Management System \(2016\)** Designed and implemented an inventory management system for the MU Division of IT. Allows checking in/out of items in inventory, administrator/employee access, and updating of inventory. Linux, Apache, MySQL, PHP, Bootstrap
 
 * **NAE Engineering Grand Challenge \(2014\)** Worked in a team to propose and design a theoretical solution for the challenge “Prevent Nuclear Terrorism.” Presented proposal to the Dean of the College of Engineering.
 
@@ -141,7 +139,7 @@ _In order of proficiency_
 * Engineering Dean’s Scholars
 
 * MU University Singers  
-  : Technical Officer, Fall 2014 – Present
+  : Technical Officer
 
 * Missouri Scholars 100  
   : 2014
