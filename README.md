@@ -1,6 +1,6 @@
 # Holt Skinner
 
-## Computer Science Scholar
+#### Computer Science Scholar
 
 > [hastg2@mail.missouri.edu](mailto:hastg2@mail.missouri.edu)  
 > [holtwashere@gmail.com](mailto:holtwashere@gmail.com)  
