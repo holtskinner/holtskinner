@@ -52,9 +52,11 @@ Cerner, Tiger Institute Living Lab
 
 _May 2016 - May 2017_
 
-* Implemented a front-end interface for displaying the NEDOCS scores of an ER.
-* Currently deployed at University of Missouri Hospital.
-* Utilized D3.js, jQuery, jQPlot, JavaScript, HTML and CSS.
+  - Implemented a front-end interface for displaying the NEDOCS score of an ER.
+    - Deployed in the University of Missouri Hospital in October 2016.
+  - Designed and implemented a data analytics application to track use cases and errors for client-facing applications.
+    - Currently used by Tiger Institute Managers and Developers.
+  - Created target cases for voice recognition algorithms.
 
 **Course Instructor**
 
@@ -64,6 +66,16 @@ _Fall 2015 - Present_
 
 * Designed curriculum and taught two semesters of Computer Science courses focused on hands-on and practical skills through problem solving, collaboration, and challenge-based learning.
 * Received _Excellence in Teaching_ award from the College of Engineering.
+
+**Teaching Assistant**
+
+MU College of Engineering
+
+  *Spring 2017*
+  - Taught introductory Algorithm Design course in C. (CS 1050)
+    - Bash, File IO, Pointers, Data Structures, Memory Management.
+  - Created homework and lab assignments for 300 students.
+  - Graded weekly lab assignments and quizzes.
 
 **Peer Tutor**
 
