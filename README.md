@@ -24,7 +24,7 @@ University of Missouri - Columbia :tiger:
 
 _Minors: Math, Information Technology_
 
-**GPA 3.979**
+**GPA 3.963**
 
 **Expected Graduation: May 2018**
 
@@ -52,9 +52,9 @@ Cerner, Tiger Institute Living Lab
 
 _May 2016 - May 2017_
 
-  - Implemented a front-end interface for displaying the NEDOCS score of an ER.
+  - Implemented a front-end interface to display the NEDOCS score of an ER.
     - Deployed in the University of Missouri Hospital in October 2016.
-  - Designed and implemented a data analytics application to track use cases and errors for client-facing applications.
+  - Created a data analytics application to track use cases and errors for client-facing applications.
     - Currently used by Tiger Institute Managers and Developers.
   - Created target cases for voice recognition algorithms.
 
@@ -109,7 +109,7 @@ _In order of proficiency_
 
 | General | Front-end | Back-End | Other |
 | --- | --- | --- | --- |
-| C, JavaScript, Java, Swift | HTML/CSS, jQuery, Bootstrap, Materialize, D3.js | PHP, SQL, Node.js, Express.js | Git, Bash, Splunk, UML, Agile, TCP/IP |
+| C, JavaScript, Java, Swift | HTML/CSS, jQuery, Bootstrap/Materialize, D3.js | PHP, SQL, Node.js, Express.js | Git, Bash, Splunk, UML, Agile, TCP/IP |
 
 ---
 
