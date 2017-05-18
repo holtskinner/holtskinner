@@ -46,6 +46,12 @@ _Minors: Math, Information Technology_
 
 ## Experience
 
+**Software Development Engineer, Intern**
+
+Amazon, Kindle Rendering for the Web
+
+_May 2017 - August 2017_
+
 **Software Engineer, Intern**
 
 Cerner, Tiger Institute Living Lab
