@@ -24,7 +24,7 @@ University of Missouri - Columbia :tiger:
 
 _Minors: Math, Information Technology_
 
-**GPA 3.963**
+**GPA 3.969**
 
 **Expected Graduation: May 2018**
 
