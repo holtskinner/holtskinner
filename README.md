@@ -24,7 +24,7 @@ University of Missouri - Columbia :tiger:
 
 _Minors: Math, Information Technology_
 
-**GPA 3.963**
+**GPA 3.969**
 
 **Expected Graduation: May 2018**
 
@@ -45,6 +45,12 @@ _Minors: Math, Information Technology_
 ---
 
 ## Experience
+
+**Software Development Engineer, Intern**
+
+Amazon, Kindle Rendering for the Web
+
+_May 2017 - August 2017_
 
 **Software Engineer, Intern**
 
