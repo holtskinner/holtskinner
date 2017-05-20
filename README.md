@@ -139,8 +139,7 @@ _In order of proficiency_
 * Association of Computing Machinery  
   : Executive Officer, Hackathon Director
 
-* Upsilon Pi Epsilon  
-  : 2016
+* Upsilon Pi Epsilon
 
 * Engineering Dean’s Scholars
 
