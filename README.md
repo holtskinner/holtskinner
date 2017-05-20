@@ -87,7 +87,7 @@ MU College of Engineering
 
 MU College of Engineering
 
-_Fall 2016 - Present_
+_Fall 2016 - Spring 2017_
 
 * Tutored undergraduate and graduate students in Computer Science and Math courses.
 
