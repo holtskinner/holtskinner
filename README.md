@@ -58,11 +58,11 @@ Cerner, Tiger Institute Living Lab
 
 _May 2016 - May 2017_
 
-  - Implemented a front-end interface to display the NEDOCS score of an ER.
-    - Deployed in the University of Missouri Hospital in October 2016.
-  - Created a data analytics application to track use cases and errors for client-facing applications.
-    - Currently used by Tiger Institute Managers and Developers.
-  - Created target cases for voice recognition algorithms.
+- Implemented a front-end interface to display the NEDOCS score of an ER.
+  - Deployed in the University of Missouri Hospital in October 2016.
+- Created a data analytics application to track use cases and errors for client-facing applications.
+  - Currently used by Tiger Institute Managers and Developers.
+- Created target cases for voice recognition algorithms.
 
 **Course Instructor**
 
@@ -77,11 +77,11 @@ _Fall 2015 - Present_
 
 MU College of Engineering
 
-  *Spring 2017*
-  - Taught introductory Algorithm Design course in C. (CS 1050)
-    - Bash, File IO, Pointers, Data Structures, Memory Management.
-  - Created homework and lab assignments for 300 students.
-  - Graded weekly lab assignments and quizzes.
+*Spring 2017*
+- Taught introductory Algorithm Design course in C. (CS 1050)
+  - Bash, File IO, Pointers, Data Structures, Memory Management.
+- Created homework and lab assignments for 300 students.
+- Graded weekly lab assignments and quizzes.
 
 **Academic Tutor**
 
@@ -134,7 +134,7 @@ _In order of proficiency_
 ## Awards & Honors
 
 * Dean’s High Honor Roll  
-  : Achieved a 3.5-4.0 GPA for 5 Semesters
+  : Achieved a 3.5-4.0 GPA for 6 Semesters
 
 * Association of Computing Machinery  
   : Executive Officer, Hackathon Director
