@@ -12,7 +12,7 @@
 > [GitLab](https://gitlab.com/holtwashere)  
 > [BitBucket](https://bitbucket.org/holtwashere)  
 > [GitBook](https://www.gitbook.com/@holtwashere)  
-**@HoltWasHere**
+> **@HoltWasHere**
 
 ---
 
@@ -113,9 +113,9 @@ _Summer 2011_
 
 _In order of proficiency_
 
-| General | Front-end | Back-End | Other |
-| --- | --- | --- | --- |
-| C, JavaScript, Java, Swift | HTML/CSS, jQuery, Bootstrap/Materialize, D3.js | PHP, SQL, Node.js, Express.js | Git, Bash, Splunk, UML, Agile, TCP/IP |
+| General                                | Front-End                                | Back-End                      | Other                                    |
+| :------------------------------------- | ---------------------------------------- | ----------------------------- | ---------------------------------------- |
+| C, Java, JavaScript, TypeScript, Swift | HTML/CSS, jQuery, Bootstrap/Materialize, React, D3, Vue | PHP, SQL, Node.js, Express.js | Git, Bash, Splunk, Android, UML, Agile, TCP/IP, XML |
 
 ---
 
