@@ -52,6 +52,8 @@ Amazon, Kindle Rendering for the Web
 
 _May 2017 - August 2017_
 
+- Developed User Interface and Database for a production Android Application.
+
 **Software Engineer, Intern**
 
 Cerner, Tiger Institute Living Lab
