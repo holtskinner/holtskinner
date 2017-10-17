@@ -90,6 +90,7 @@ _Fall 2015 - Present_
 MU College of Engineering
 
 *Spring 2017*
+
 - Taught introductory Algorithm Design course in C. (CS 1050)
   - Bash, File IO, Pointers, Data Structures, Memory Management.
 - Created homework and lab assignments for 300 students.
@@ -111,7 +112,7 @@ _Fall 2014 - Present_
 
 * Provided technological support for lab computers and computer software.
 
-**IT Intern**  
+**Information Technology Intern**  
 Quality Computers
 
 _Summer 2011_
@@ -133,7 +134,9 @@ _In order of proficiency_
 
 ## Projects
 
-* **HackMizzou/TigerHacks \(2016 - 2017\)** Director of annual hackathon at the University of Missouri. Hosted by the Association for Computing Machinery and Major League Hacking. Over 200 students competed.
+* **Multilayer Perceptron \(2017)** Created a Multilayer Perceptron Neural Network trained with the backpropagation algorithm. Swift
+
+* **HackMizzou/TigerHacks \(2016 - 2017\)** Director of annual hackathon at the University of Missouri. Hosted by the Association for Computing Machinery and Major League Hacking. Over 300 competitors, volunteers, sponsors, and mentors attended. 50 teams demoed a project.
 
 * **OCDX Engine \(2016\)** Project Manager. Data Analytics application to allow Data Scientist to upload, query, share, and analyze manifest data.
 
