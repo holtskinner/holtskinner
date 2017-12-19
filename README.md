@@ -21,7 +21,7 @@ University of Missouri - Columbia :tiger:
 
 _Minors: Math, Information Technology_
 
-**GPA 3.969**
+**GPA 3.973**
 
 **Expected Graduation: May 2018**
 
@@ -51,7 +51,8 @@ Amazon, Kindle Rendering for the Web
 
 _May 2017 - August 2017_
 
-- Developed the user interface, database, and controller logic for a production Android application.
+- Developed the user interface, database, and controller logic for the [Kindle Lite](https://play.google.com/store/apps/details?id=com.amazon.klite&hl=en) Android application.
+- Deployed to the Google Play Store in November 2017
 
 **Software Engineer, Intern**
 
@@ -74,13 +75,12 @@ _Fall 2015 - Present_
 * Designed curriculum and taught three semesters of Computer Science Seminar focused on practical skills through problem solving, collaboration, and hands-on learning.
 * Received _Excellence in Teaching_ award from the College of Engineering.
 
-**Peer Advisor**
+**Resident Advisor**
 
 MU Department of Residential Life
 
 _Fall 2015 - Present_
 
-- Managed residential conflict resolution and enforced drug and alcohol policies.
 - Developed a cohesive learning community that emphasizes active student involvement and service.
 - Managed student crises and other emergencies.
 - Organized events to promote diversity and develop community leadership.
@@ -106,7 +106,7 @@ _Fall 2016 - Spring 2017_
 
 **Lab Technician**
 
-MU Academic Support
+MU Academic Support Center
 
 _Fall 2014 - Present_
 
@@ -128,7 +128,7 @@ _In order of proficiency_
 
 | General                                | Front-End                                | Back-End                      | Other                                    |
 | :------------------------------------- | ---------------------------------------- | ----------------------------- | ---------------------------------------- |
-| C, Java, JavaScript, TypeScript, Swift | HTML, CSS, React, jQuery, Bootstrap, D3, Vue | PHP, SQL, Node.js, Express.js | Git, Android, Bash, Splunk, UML, Scrum |
+| C, Java, JavaScript, TypeScript, Swift | HTML, CSS, React, jQuery, Bootstrap, D3, Vue | PHP, SQL, Node.js, Express.js, Socket.io | Git, Android, Bash, Splunk, UML, Scrum |
 
 ---
 
@@ -146,20 +146,15 @@ _In order of proficiency_
 
 ---
 
-## Awards & Honors
-
-* Dean’s High Honor Roll  
-  _Fall 2014 - Spring 2017_
-  > Achieved a 3.5-4.0 GPA for 6 Semesters
+## Extra-Curriculars
 
 * Association of Computing Machinery  
   _Fall 2014 - Present_
-  > Executive Officer, Hackathon Director
+  > Hackathon Director & Executive Officer
 
 * Upsilon Pi Epsilon
-  _Fall 2016 - Present_
-
-* Engineering Dean’s Scholars
+_Fall 2016 - Present_
+> Computer Science Honor Society
 
 * MU University Singers  
   _Fall 2014 - Present_
@@ -167,9 +162,23 @@ _In order of proficiency_
 
 * MU Show-Me Opera  
   _Spring 2017 - Present_
+  > Ruggiero - _Alcina_ by G.F. Handel (2018)
 
-* Missouri Scholars 100  
-  _2014_
+* MU Choral Union
+  _Fall 2014 - Present_
 
-* Missouri Scholars Academy  
-  _2012_
+* Ars Nova Chamber Singers
+  _Fall 2014 - Present_
+
+## Awards & Honors
+
+* Dean’s High Honor Roll  
+  _Fall 2014 - Fall 2017_
+  > Achieved a 3.5-4.0 GPA for 7 Semesters
+
+* Engineering Dean’s Scholars
+  _Fall 2014 - Present_
+
+* National Association of Teachers of Singing (NATS)
+  _Fall 2017_
+  > Honorable Mention
