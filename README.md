@@ -30,16 +30,14 @@ _Minors: Math, Information Technology_
 * Advanced Algorithms
 * Operating Systems
 * Advanced Web Development
+* Computational Intelligence
+* Machine Learning
 * Object-Oriented Design
 * iOS Development
-* Computational Intelligence
 * Software Engineering
 * Databases
 * Computer Networks
 * Computer Organization
-* Discrete Math
-* Numerical Linear Algebra
-* Statistics
 
 ---
 
@@ -128,7 +126,7 @@ _In order of proficiency_
 
 | General                                | Front-End                                | Back-End                      | Other                                    |
 | :------------------------------------- | ---------------------------------------- | ----------------------------- | ---------------------------------------- |
-| C, Java, JavaScript, TypeScript, Swift | HTML, CSS, React, jQuery, Bootstrap, D3, Vue | PHP, SQL, Node.js, Express.js, Socket.io | Git, Android, Bash, Splunk, UML, Scrum |
+| C, Java, JavaScript, TypeScript, Python, Swift | HTML, CSS, React, jQuery, Bootstrap, D3, Vue | PHP, SQL, Node.js, Express.js, Socket.io | Git, Numpy, Android, Bash, Splunk, UML, Scrum |
 
 ---
 
