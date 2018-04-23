@@ -28,11 +28,11 @@ _Minors: Math, Information Technology_
 **Coursework:**
 
 * Advanced Algorithms
-* Operating Systems
 * Advanced Web Development
-* Computational Intelligence
+* Advanced Computational Intelligence
 * Machine Learning
 * Object-Oriented Design
+* Operating Systems
 * iOS Development
 * Software Engineering
 * Databases
@@ -49,7 +49,7 @@ Amazon, Kindle Rendering for the Web
 
 _May 2017 - August 2017_
 
-- Developed the user interface, database, and controller logic for the [Kindle Lite](https://play.google.com/store/apps/details?id=com.amazon.klite&hl=en) Android application.
+- Developed the user interface, database, and controller logic for the Library in the [Kindle Lite](https://play.google.com/store/apps/details?id=com.amazon.klite&hl=en) Android application.
 - Deployed to the Google Play Store in November 2017
 
 **Software Engineer, Intern**
@@ -100,13 +100,21 @@ MU College of Engineering
 
 _Fall 2016 - Spring 2017_
 
-* Tutored undergraduate and graduate students in Computer Science and Math courses.
+* Tutored undergraduate students in Computer Science and Math courses.
+
+**Web Developer**
+
+MU College of Engineering
+
+_Spring 2018_
+
+* Created content and repaired broken links for MU College of Engineering Website. [engineering.missouri.edu](engineering.missouri.edu) Wordpress
 
 **Lab Technician**
 
 MU Academic Support Center
 
-_Fall 2014 - Present_
+_Fall 2014 - Spring 2018_
 
 * Provided technological support for lab computers and computer software.
 
@@ -122,21 +130,21 @@ _Summer 2011_
 
 ## Technical Skills
 
-_In order of proficiency_
-
 | General                                | Front-End                                | Back-End                      | Other                                    |
 | :------------------------------------- | ---------------------------------------- | ----------------------------- | ---------------------------------------- |
-| C, Java, JavaScript, TypeScript, Python, Swift | HTML, CSS, React, jQuery, Bootstrap, D3, Vue | PHP, SQL, Node.js, Express.js, Socket.io | Git, Numpy, Android, Bash, Splunk, UML, Scrum |
+| C, Java, JavaScript, TypeScript, Python, Swift | HTML, CSS, React, jQuery, Bootstrap, D3.js, Vue.js | PHP, SQL, Node.js, Express.js, Socket.io | Git, Numpy, Android, UNIX, Splunk, Agile, Scrum |
 
 ---
 
 ## Projects
 
-* **Multilayer Perceptron \(2017)** Created a Multilayer Perceptron Neural Network trained with the backpropagation algorithm. Swift
+* **[NFL Predictor](https://github.com/jah3xc/MUCS-Capstone) \(2017 - 2018\)** [NFLpredictions.org](https://NFLpredictions.org) Worked in a team to create an application for predict- ing the outcomes of NFL games using Fuzzy C-Means Clustering and a Neural Network. Python, Numpy, Node.js, HTML/CSS, JavaScript
+
+* **[Possibilistic C-Means Clustering](https://github.com/holtwashere/PossibilisticCMeans/) \(2018\)** Created open source implentation of Fuzzy C-Means and Possibilistic C-Means Clustering Algorithms.
+
+* **Multilayer Perceptron \(2017\)** Created a Multilayer Perceptron Neural Network trained with the back-propagation algorithm. Swift
 
 * **HackMizzou/TigerHacks \(2016 - 2017\)** Director of annual hackathon at the University of Missouri. Hosted by the Association for Computing Machinery and Major League Hacking. Over 300 competitors, volunteers, sponsors, and mentors attended. 50 teams demoed a project.
-
-* **OCDX Engine \(2016\)** Project Manager. Data Analytics application to allow Data Scientist to upload, query, share, and analyze manifest data.
 
 * **Division of IT Inventory Management System \(2016\)** Designed and implemented an inventory management system for the MU Division of IT. Allows checking in/out of items in inventory, administrator/employee access, and updating of inventory. Linux, Apache, MySQL, PHP, Bootstrap
 
@@ -147,26 +155,26 @@ _In order of proficiency_
 ## Extra-Curriculars
 
 * Association of Computing Machinery  
-  _Fall 2014 - Present_
+  _Fall 2014 - Spring 2018_
   > Hackathon Director & Executive Officer
 
 * Upsilon Pi Epsilon
-_Fall 2016 - Present_
+_Fall 2016 - Spring 2018_
 > Computer Science Honor Society
 
 * MU University Singers  
-  _Fall 2014 - Present_
+  _Fall 2014 - Spring 2018_
   > Technical Officer
 
 * MU Show-Me Opera  
-  _Spring 2017 - Present_
+  _Spring 2017 - Spring 2018_
   > Ruggiero - _Alcina_ by G.F. Handel (2018)
 
 * MU Choral Union
-  _Fall 2014 - Present_
+  _Fall 2014 - Spring 2018_
 
 * Ars Nova Chamber Singers
-  _Fall 2014 - Present_
+  _Fall 2014 - Spring 2018_
 
 ## Awards & Honors
 
@@ -175,8 +183,9 @@ _Fall 2016 - Present_
   > Achieved a 3.5-4.0 GPA for 7 Semesters
 
 * Engineering Dean’s Scholars
-  _Fall 2014 - Present_
+  _Fall 2014 - Spring 2018_
 
 * National Association of Teachers of Singing (NATS)
-  _Fall 2017_
-  > Honorable Mention
+  _Fall 2017 - Spring 2018_
+  > Mid-Missouri District, 1st Place
+  > Central District, Honorable Mention
