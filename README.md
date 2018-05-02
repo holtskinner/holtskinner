@@ -138,7 +138,7 @@ _Summer 2011_
 
 ## Projects
 
-* **[NFL Predictor](https://github.com/jah3xc/MUCS-Capstone) \(2017 - 2018\)** [NFLpredictions.org](https://NFLpredictions.org) Worked in a team to create an application for predict- ing the outcomes of NFL games using Fuzzy C-Means Clustering and a Neural Network. Python, Numpy, Node.js, HTML/CSS, JavaScript
+* **[NFL Predictor](https://github.com/jah3xc/MUCS-Capstone) \(2017 - 2018\)** [NFLpredictions.org](http://NFLpredictions.org) Worked in a team to create an application for predict- ing the outcomes of NFL games using Fuzzy C-Means Clustering and a Neural Network. Python, Numpy, Node.js, HTML/CSS, JavaScript
 
 * **[Possibilistic C-Means Clustering](https://github.com/holtwashere/PossibilisticCMeans/) \(2018\)** Created open source implentation of Fuzzy C-Means and Possibilistic C-Means Clustering Algorithms.
 
