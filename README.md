@@ -2,7 +2,6 @@
 
 #### Computer Science Scholar
 
-> [skinnerh@mail.missouri.edu](mailto:hastg2@mail.missouri.edu)  
 > [holtwashere@gmail.com](mailto:holtwashere@gmail.com)  
 > [\(417\) 855-0214](1-417-855-0214)
 
@@ -21,9 +20,9 @@ University of Missouri - Columbia :tiger:
 
 _Minors: Math, Information Technology_
 
-**GPA 3.973**
+**GPA 3.975, Summa Cum Laude**
 
-**Expected Graduation: May 2018**
+**Fall 2014 - Spring 2018**
 
 **Coursework:**
 
@@ -68,7 +67,7 @@ _May 2016 - May 2017_
 
 MU College of Engineering
 
-_Fall 2015 - Present_
+_Fall 2015 - Spring 2018_
 
 * Designed curriculum and taught three semesters of Computer Science Seminar focused on practical skills through problem solving, collaboration, and hands-on learning.
 * Received _Excellence in Teaching_ award from the College of Engineering.
@@ -77,7 +76,7 @@ _Fall 2015 - Present_
 
 MU Department of Residential Life
 
-_Fall 2015 - Present_
+_Fall 2015 - Spring 2018_
 
 - Developed a cohesive learning community that emphasizes active student involvement and service.
 - Managed student crises and other emergencies.
@@ -138,7 +137,7 @@ _Summer 2011_
 
 ## Projects
 
-* **[NFL Predictor](https://github.com/jah3xc/MUCS-Capstone) \(2017 - 2018\)** [NFLpredictions.org](http://NFLpredictions.org) Worked in a team to create an application for predict- ing the outcomes of NFL games using Fuzzy C-Means Clustering and a Neural Network. Python, Numpy, Node.js, HTML/CSS, JavaScript
+* **[NFL Predictor](https://github.com/jah3xc/MUCS-Capstone) \(2017 - 2018\)** Worked in a team to create an application for predict- ing the outcomes of NFL games using Fuzzy C-Means Clustering and a Neural Network. Python, Numpy, Node.js, HTML/CSS, JavaScript
 
 * **[Possibilistic C-Means Clustering](https://github.com/holtwashere/PossibilisticCMeans/) \(2018\)** Created open source implentation of Fuzzy C-Means and Possibilistic C-Means Clustering Algorithms.
 
@@ -179,8 +178,8 @@ _Fall 2016 - Spring 2018_
 ## Awards & Honors
 
 * Dean’s High Honor Roll  
-  _Fall 2014 - Fall 2017_
-  > Achieved a 3.5-4.0 GPA for 7 Semesters
+  _Fall 2014 - Spring 2018_
+  > Achieved a 3.5-4.0 GPA for 8 Semesters
 
 * Engineering Dean’s Scholars
   _Fall 2014 - Spring 2018_
