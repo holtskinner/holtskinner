@@ -42,6 +42,13 @@ _Minors: Math, Information Technology_
 
 ## Experience
 
+**Cloud Technical Resident**
+
+Google
+
+_July 2018 - Present_
+
+
 **Software Development Engineer, Intern**
 
 Amazon, Kindle Rendering for the Web
