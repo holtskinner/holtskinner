@@ -5,10 +5,8 @@
 > [holtwashere@gmail.com](mailto:holtwashere@gmail.com)  
 > [\(417\) 855-0214](1-417-855-0214)
 
-> [GitHub :octocat:](https://github.com/HoltWasHere)  
-> [LinkedIn](https://linkedin.com/in/HoltWasHere)  
-> [Twitter](https://twitter.com/HoltWasHere)  
-> **@HoltWasHere**
+> [GitHub @HoltSkinner:octocat:](https://github.com/HoltSkinner) 
+> [LinkedIn @Holt](https://linkedin.com/in/Holt)  
 
 ---
 
