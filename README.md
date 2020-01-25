@@ -1,7 +1,5 @@
 # Holt Skinner
 
-#### Computer Science Scholar
-
 > [holtwashere@gmail.com](mailto:holtwashere@gmail.com)  
 > [\(417\) 855-0214](1-417-855-0214)
 
@@ -10,41 +8,19 @@
 
 ---
 
-## Education
-
-University of Missouri - Columbia :tiger:
-
-**Computer Science,** Bachelor of Science
-
-_Minors: Math, Information Technology_
-
-**GPA 3.975, Summa Cum Laude**
-
-**Fall 2014 - Spring 2018**
-
-**Coursework:**
-
-* Advanced Algorithms
-* Advanced Web Development
-* Advanced Computational Intelligence
-* Machine Learning
-* Object-Oriented Design
-* Operating Systems
-* iOS Development
-* Software Engineering
-* Databases
-* Computer Networks
-* Computer Organization
-
----
-
 ## Experience
+
+**Technical Solutions Engineer**
+
+Google
+
+_October 2019 - Present_
 
 **Cloud Technical Resident**
 
 Google
 
-_July 2018 - Present_
+_July 2018 - October 2019_
 
 
 **Software Development Engineer, Intern**
@@ -132,11 +108,51 @@ _Summer 2011_
 
 ---
 
+## Education
+
+University of Missouri - Columbia :tiger:
+
+**Computer Science,** Bachelor of Science
+
+_Minors: Math, Information Technology_
+
+**GPA 3.975, Summa Cum Laude**
+
+**Fall 2014 - Spring 2018**
+
+**Coursework:**
+
+* Advanced Algorithms
+* Advanced Web Development
+* Advanced Computational Intelligence
+* Machine Learning
+* Object-Oriented Design
+* Operating Systems
+* iOS Development
+* Software Engineering
+* Databases
+* Computer Networks
+* Computer Organization
+
+---
+
+## Google Cloud Certifications
+
+- Associate Cloud Engineer
+- Professional Cloud Architect
+- Professional Data Engineer
+- Professional Cloud Developer
+- Professional Cloud Security Engineer
+- Professional Network Engineer
+- Professional Cloud DevOps Engineer
+
+---
+
 ## Technical Skills
 
 | General                                | Front-End                                | Back-End                      | Other                                    |
 | :------------------------------------- | ---------------------------------------- | ----------------------------- | ---------------------------------------- |
-| C, Java, JavaScript, TypeScript, Python, Swift | HTML, CSS, React, jQuery, Bootstrap, D3.js, Vue.js | PHP, SQL, Node.js, Express.js, Socket.io | Git, Numpy, Android, UNIX, Splunk, Agile, Scrum |
+| C, Java, JavaScript, TypeScript, Python, Swift, Go | HTML, CSS, React, jQuery, Bootstrap, D3.js, Vue.js | PHP, SQL, Node.js, Express.js, Socket.io | Git, Numpy, Android, UNIX, Splunk, Agile, Scrum |
 
 ---
 
