@@ -3,18 +3,23 @@
 > [holtwashere@gmail.com](mailto:holtwashere@gmail.com)  
 > [\(417\) 855-0214](1-417-855-0214)
 
-> [GitHub @HoltSkinner:octocat:](https://github.com/HoltSkinner)  
+> [GitHub @HoltSkinner :octocat:](https://github.com/HoltSkinner)  
 > [LinkedIn @Holt](https://linkedin.com/in/Holt)  
 
 ---
 
-## Experience
+## Work Experience
 
-**Technical Solutions Engineer**
+**Cloud Technical Solutions Engineer**
 
 Google
 
 _October 2019 - Present_
+
+- Performed Customer Troubleshooting and Collaborated with Product Engineering Teams to repair issues in the Cloud Data/Machine Learning Products.
+- Worked with multiple high-valued Enterprise Customers and Escalations.
+- Mentored New Hires and taught Training Sessions.
+- Worked as the Product Support Lead for the Cloud Machine Learning products to improve collaboration between Support and development teams.
 
 **Cloud Technical Resident**
 
@@ -22,6 +27,12 @@ Google
 
 _July 2018 - October 2019_
 
+- Participated in the Pilot Program of the Cloud Technical Residency, rotating between the roles of Customer Sales Engineer, Technical Solutions Consultant, and Technical Solutions Engineer.
+- Influenced over $50 million in Cloud Sales 
+- Created the first public demonstration for the Document AI Google Cloud Product.
+- Wrote Python code to build a data pipeline for Patent Data Parsing using Google Cloud Services (AutoML, Natural Language, AI Platform, Cloud Storage)
+- Wrote and published the top AI/ML post of 2019 to the public Google Cloud Blog
+- Created the UI for a custom workflow management tool currently in use by all of Google Cloud Support.
 
 **Software Development Engineer, Intern**
 
@@ -144,6 +155,7 @@ _Minors: Math, Information Technology_
 - Professional Cloud Developer
 - Professional Cloud Security Engineer
 - Professional Network Engineer
+- Professional Collaboration Engineer
 - Professional Cloud DevOps Engineer
 
 ---
