@@ -2,7 +2,7 @@
 
 % Set up the fonts according to options
 \def\mainfontsize{11pt}
-\def\mainfontface{Avenir Next}
+\def\mainfontface{Latin Modern Roman}
 
 \ProcessOptions\relax
 
@@ -10,7 +10,7 @@
 \LoadClass[letterpaper,\mainfontsize]{article} 
 
 % Set document margins
-\usepackage[left=0.4in,top=0.25in,right=0.5in,bottom=0.5in]{geometry} 
+\usepackage[left=0.4in,top=0.4in,right=0.4in,bottom=0.4in]{geometry} 
 
 % Set font face
 \usepackage{fontspec}
@@ -41,7 +41,7 @@ Ligatures={TeX, NoCommon, NoDiscretionary}]{\mainfontface}
 % separation to a negative value to suppress a single parskip before lists
 \setlist{leftmargin=*, noitemsep, topsep=-1\parskip}
 
-% For spcaed small caps
+% For spaced small caps
 \usepackage{microtype}
 
 \DeclareMicrotypeSet*{smallcapsi} { 
