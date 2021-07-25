@@ -1,7 +1,6 @@
 # Holt Skinner
 
 > [skinnerholt@gmail.com](mailto:skinnerholt@gmail.com)  
-> [\(417\) 855-0214](1-417-855-0214)
 
 > [GitHub @HoltSkinner :octocat:](https://github.com/HoltSkinner)  
 > [LinkedIn @Holt](https://linkedin.com/in/Holt)  
