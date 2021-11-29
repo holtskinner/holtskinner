@@ -9,11 +9,17 @@
 
 ## Work Experience
 
-**Cloud Technical Solutions Engineer**
+**Developer Advocate, AI & ML**
 
 Google
 
-_October 2019 - Present_
+_November 2021 - Present_
+
+**Technical Solutions Engineer, AI & ML**
+
+Google
+
+_October 2019 - November 2021_
 
 - Performed Customer Troubleshooting and Collaborated with Product Engineering Teams to repair issues in the Cloud Data/Machine Learning Products.
 - Worked with multiple high-valued Enterprise Customers and Escalations.
