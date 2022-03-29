@@ -162,6 +162,7 @@ _Minors: Math, Information Technology_
 - Professional Network Engineer
 - Professional Collaboration Engineer
 - Professional Cloud DevOps Engineer
+- Professional Machine Learning Engineer
 
 ---
 
@@ -169,7 +170,7 @@ _Minors: Math, Information Technology_
 
 | General                                | Front-End                                | Back-End                      | Other                                    |
 | :------------------------------------- | ---------------------------------------- | ----------------------------- | ---------------------------------------- |
-| C, Java, JavaScript, TypeScript, Python, Swift, Go | HTML, CSS, React, jQuery, Bootstrap, D3.js, Vue.js | PHP, SQL, Node.js, Express.js, Socket.io | Git, Numpy, Android, UNIX, Splunk, Agile, Scrum |
+| Python, C, Java, JavaScript, TypeScript, Swift, Go | HTML, CSS, React, jQuery, Bootstrap, D3.js, Vue.js | PHP, SQL, Node.js, Express.js, Socket.io | Git, Numpy, Android, UNIX, Splunk, Agile, Scrum |
 
 ---
 
