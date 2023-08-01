@@ -15,6 +15,12 @@ Google
 
 _November 2021 - Present_
 
+- Advocate for emerging AI solutions to communities of developers, and write code and share that code with the community.
+- Drive developer awareness and deliver compelling content (e.g., speaking at events, publishing/blogging, social media, leveraging Google's channels etc.) to increase awareness and to inspire developers to 'put fingers on keyboards' and try emerging AI solutions.
+- Create technical assets (e.g., demos, videos, presentations, workshops, code-labs) to help developers use emerging AI solutions.
+- Document and deliver product feedback and advocate for the developer to Engineering, and guide ongoing product excellence programs.
+- Create, and deliver strategic guidance and best practices to partners, customers, and internal audiences about emerging AI solutions.
+
 **Technical Solutions Engineer, AI & ML**
 
 Google
