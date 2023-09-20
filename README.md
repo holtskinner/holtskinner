@@ -1,7 +1,5 @@
 # Holt Skinner
 
-> [skinnerholt@gmail.com](mailto:skinnerholt@gmail.com)  
-
 > [GitHub @HoltSkinner :octocat:](https://github.com/HoltSkinner)  
 > [LinkedIn @Holt](https://linkedin.com/in/Holt)  
 
@@ -9,7 +7,7 @@
 
 ## Work Experience
 
-**Developer Advocate, AI & ML**
+**Developer Advocate, Cloud AI**
 
 Google
 
@@ -176,7 +174,7 @@ _Minors: Math, Information Technology_
 
 | General                                | Front-End                                | Back-End                      | Other                                    |
 | :------------------------------------- | ---------------------------------------- | ----------------------------- | ---------------------------------------- |
-| Python, C, Java, JavaScript, TypeScript, Swift, Go | HTML, CSS, React, jQuery, Bootstrap, D3.js, Vue.js | PHP, SQL, Node.js, Express.js, Socket.io | Git, Numpy, Android, UNIX, Splunk, Agile, Scrum |
+| Python, JavaScript, TypeScript, C, Java, Swift, Go | HTML, CSS, React, jQuery, Bootstrap, D3.js, Vue.js | SQL, Node.js, Express.js, Socket.io, PHP | Git, Numpy, Android, UNIX |
 
 ---
 
@@ -213,9 +211,6 @@ _Fall 2016 - Spring 2018_
 * MU Show-Me Opera  
   _Spring 2017 - Spring 2018_
   > Ruggiero - _Alcina_ by G.F. Handel (2018)
-
-* MU Choral Union
-  _Fall 2014 - Spring 2018_
 
 * Ars Nova Chamber Singers
   _Fall 2014 - Spring 2018_
