@@ -13,11 +13,18 @@ Google
 
 _November 2021 - Present_
 
-- Advocate for emerging AI solutions to communities of developers, and write code and share that code with the community.
-- Drive developer awareness and deliver compelling content (e.g., speaking at events, publishing/blogging, social media, leveraging Google's channels etc.) to increase awareness and to inspire developers to 'put fingers on keyboards' and try emerging AI solutions.
-- Create technical assets (e.g., demos, videos, presentations, workshops, code-labs) to help developers use emerging AI solutions.
-- Document and deliver product feedback and advocate for the developer to Engineering, and guide ongoing product excellence programs.
-- Create, and deliver strategic guidance and best practices to partners, customers, and internal audiences about emerging AI solutions.
+- Wrote and published a highly-viewed video series for Document AI, [The Future of Documents](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDBmTXgyRHRPUnNnN3plc2l4LUJwZEpvbzc0Z3xBQ3Jtc0trRUkxeVA2Sk1mMnUwcy1FQ3pYWWFHZ0s2ZW1RV1pNSTlrSmp6Vi1iX1dudHpnOVFpQ3oybXdQMUJka01WbkY2OGxOMEluN2xCcE1JM3A4YTF0SENGbGNJTVh1WXNicmdRR3hMLWhLS3FWSnM2VFU1aw&q=https%3A%2F%2Fgoo.gle%2FFutureOfDocuments&v=F_jyoe1lQhg)
+- Created and presented [talks for Google Cloud Next, Google I/O, and developer meetups worldwide and online](https://www.youtube.com/playlist?list=PL-usSwn8el3aYSYim6iRIWQsaMXtsoSn9), viewed by over 0.5 Million developers worldwide.
+- Lead contributor and reviewer for the [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) repository 10.2k stars, 7.45 Million Views in 2 years
+  - Created and reviewed tutorials, demos, and Jupyter notebooks for Generative AI on Vertex AI
+- [Lead contributor for Vertex AI Code Samples](https://github.com/GoogleCloudPlatform/python-docs-samples/pulls?q=is%3Apr+author%3Aholtskinner)
+- Developed features for Vertex AI SDK and Google Gen AI SDK
+- Key Collaborator and Advisor for Vertex AI, Vertex AI Search, and Document AI Documentation
+- Sole Maintainer of [Document AI Toolbox SDK](https://github.com/googleapis/python-documentai-toolbox), used by hundreds of Document AI customers worldwide  
+- Designed and implemented strategy for metrics collection of Google API requests through LangChain.
+  - Creator of multiple LangChain Google connectors
+    - [https://github.com/langchain-ai/langchain/pulls?q=is%3Apr+author%3Aholtskinner](https://github.com/langchain-ai/langchain/pulls?q=is%3Apr+author%3Aholtskinner)
+    - [https://github.com/langchain-ai/langchain-google/pulls?q=is%3Apr+author%3Aholtskinner](https://github.com/langchain-ai/langchain-google/pulls?q=is%3Apr+author%3Aholtskinner)
 
 **Technical Solutions Engineer, AI & ML**
 
