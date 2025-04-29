@@ -18,7 +18,7 @@ _November 2021 - Present_
 - Lead contributor and reviewer for the [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) repository 10.2k stars, 7.45 Million Views in 2 years
   - Created and reviewed tutorials, demos, and Jupyter notebooks for Generative AI on Vertex AI
 - [Lead contributor for Vertex AI Code Samples](https://github.com/GoogleCloudPlatform/python-docs-samples/pulls?q=is%3Apr+author%3Aholtskinner)
-- Developed features for Vertex AI SDK and Google Gen AI SDK
+- Developed features for [Vertex AI SDK](https://github.com/googleapis/python-aiplatform/commits/main/?author=holtskinner) and [Google Gen AI SDK](https://github.com/googleapis/python-genai/commits/main/?author=holtskinner)
 - Key Collaborator and Advisor for Vertex AI, Vertex AI Search, and Document AI Documentation
 - Sole Maintainer of [Document AI Toolbox SDK](https://github.com/googleapis/python-documentai-toolbox), used by hundreds of Document AI customers worldwide  
 - Designed and implemented strategy for metrics collection of Google API requests through LangChain.
